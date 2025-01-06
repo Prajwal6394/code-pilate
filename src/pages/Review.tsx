@@ -1,4 +1,3 @@
-import React from 'react';
 import ReviewResults from '../components/review/ReviewResults';
 
 export default function Review() {

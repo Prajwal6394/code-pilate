@@ -1,4 +1,3 @@
-import React from 'react';
 import UploadArea from '../components/upload/UploadArea';
 
 export default function Upload() {
